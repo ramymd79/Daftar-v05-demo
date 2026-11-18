@@ -1,0 +1,36 @@
+1:"$Sreact.fragment"
+2:"static/chunks/441-09c7ce679d674a55.js"
+3:"static/chunks/773-7965ae78fffebe68.js"
+4:"static/chunks/app/layout-da2ee9cea3b09365.js"
+5:I[5091,["441","$2","773","$3","177","$4"],"StoreProvider"]
+6:I[7345,["441","$2","773","$3","177","$4"],"AuthGate"]
+7:I[9472,[],""]
+8:I[5270,[],""]
+9:I[2838,["441","$2","773","$3","177","$4"],"BottomNav"]
+d:I[7373,[],"ClientPageRoot"]
+e:"static/chunks/804-4c0caa675517db82.js"
+f:"static/chunks/670-09530dbed457c3cf.js"
+10:"static/chunks/739-d764124b518bd5a9.js"
+11:"static/chunks/828-a482aa446adb61ae.js"
+12:"static/chunks/360-81883e72869f4418.js"
+13:"static/chunks/app/contractors/page-5db679acb5ca5627.js"
+14:I[8797,["441","$2","773","$3","804","$e","670","$f","739","$10","828","$11","360","$12","329","$13"],"default"]
+17:I[4957,[],"OutletBoundary"]
+18:"$Sreact.suspense"
+1a:"ViewportBoundary"
+1b:I[4957,[],"$1a"]
+1d:"MetadataBoundary"
+1e:I[4957,[],"$1d"]
+20:I[3020,[],"default",1]
+:HL["/Daftar-v05-demo/_next/static/css/edd59c082f804e4a.css","style"]
+b:X
+c:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$Ld",null,{"Component":"$14","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@15","$@16"]}}],null,["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]]}],"p":false,"v":null}}]]
+a:[["children",{"s":"contractors","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$b"},"c":"$Qc"}]]
+0:{"P":null,"c":["","contractors",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/Daftar-v05-demo/_next/static/css/edd59c082f804e4a.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ar","dir":"rtl","className":"h-full","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"src":"/Daftar-v05-demo/demo-network.js"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(localStorage.getItem(\"daftar-preview-v05:theme\")===\"dark\"&&location.pathname.indexOf(\"/print\")<0)document.documentElement.classList.add(\"dark\")}catch(e){}"}}]]}],["$","body",null,{"className":"min-h-full bg-[var(--bg)] font-sans text-stone-900 antialiased","children":["$","$L5",null,{"children":["$","div",null,{"className":"app-width mx-auto","children":["$","$L6",null,{"children":[["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L9",null,{}]]}]}]}]}]]}]]}],"p":false,"v":null},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1b",null,{"children":"$L1c"}],["$","$L1e",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$18",null,{"name":"Next.Metadata","children":"$L1f"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$20",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Fr9NSPGN2SmRiMuxjNVxw"}
+b:C
+15:{}
+16:"$c:0:1:d:r:props:children:0:props:serverProvidedParams:params"
+1c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]
+21:I[1576,[],"IconMark"]
+19:null
+1f:[["$","title","0",{"children":"دفتر — نسخة عرض تجريبية"}],["$","meta","1",{"name":"description","content":"دفتر فلوس مشاريع التشطيب — مدفوعات ومصروفات وصور في مكان واحد"}],["$","link","2",{"rel":"icon","href":"/Daftar-v05-demo/icon.svg?3e15aa339cd746f5","type":"image/svg+xml","sizes":"any"}],["$","$L21","3",{}]]

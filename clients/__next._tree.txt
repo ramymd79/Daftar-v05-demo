@@ -1,0 +1,4 @@
+:HL["/Daftar-v05-demo/_next/static/css/edd59c082f804e4a.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"clients","h":96,"c":"$Q2"}]]
+0:{"b":"Fr9NSPGN2SmRiMuxjNVxw","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
